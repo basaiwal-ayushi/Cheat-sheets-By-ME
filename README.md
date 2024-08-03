@@ -1,2 +1,5 @@
 # Cheat-sheets-By-ME
-Technical Concepts Docs - By Me
+Technical Concepts Docs
+Author- Ayushi Basaiwal
+
+Topics Covered:
